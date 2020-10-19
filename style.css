@@ -1,0 +1,19 @@
+.row{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 0;
+    padding: 0;
+}
+.lists{
+    text-align: center;
+    list-style-type: none;  
+    color: black ;
+    font-size: 20px ;
+}
+.lists a{
+    color: black;
+}
+.row p{
+    text-align: justify;
+    margin: 200px;
+}
